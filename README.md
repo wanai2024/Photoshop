@@ -41,14 +41,6 @@ PS-Online/
 │   └── index.html          # 关于页面
 └── blog/
     ├── index.html          # 博客首页
-    ├── css/
-    │   └── style.css       # 博客专用样式
-    └── article01.html      # 第一篇文章：PS基础教程
-    └── article02.html      # 第二篇文章：图片调色技巧
-    └── article03.html      # 第三篇文章：抠图方法汇总
-    └── article04.html      # 第四篇文章：设计灵感分享
-    └── article05.html      # 第五篇文章：滤镜使用指南
-    └── article06.html      # 第六篇文章：进阶修图技巧
 ```
 
 ## 技术实现
